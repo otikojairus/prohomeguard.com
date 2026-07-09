@@ -4,8 +4,8 @@ export type SeoPage = (typeof RAW_PAGES)[number];
 
 export const SITE_NAME = "ProHomeGuard";
 export const DEFAULT_SITE_URL = "https://prohomeguard.com";
-export const PHONE_DISPLAY = "1-888-689-6881";
-export const PHONE_E164 = "+18886896881";
+export const PHONE_DISPLAY = "1-888-896-5840";
+export const PHONE_E164 = "+18888965840";
 
 export const SEO_PAGES: SeoPage[] = [...RAW_PAGES];
 export const SERVICE_PILLARS = SEO_PAGES.filter((page) => page.pageType === "Service Pillar");
@@ -132,8 +132,8 @@ function normalizeSource(page: SeoPage) {
 
 function cleanTitle(value: string) {
   return value
-    .replace(/\s*\|\s*1-888-689-6881\s*$/i, "")
-    .replace(/\s*\|\s*Call\s+1-888-689-6881\s*$/i, "")
+    .replace(/\s*\|\s*1-888-896-5840\s*$/i, "")
+    .replace(/\s*\|\s*Call\s+1-888-896-5840\s*$/i, "")
     .replace(/\s*\|\s*ProHomeGuard\s*$/i, "")
     .trim();
 }

@@ -12,7 +12,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "450.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "2.0",
@@ -27,7 +27,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "250.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "3.0",
@@ -42,7 +42,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "10.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "4.0",
@@ -57,7 +57,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "180.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "5.0",
@@ -72,7 +72,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "150.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "6.0",
@@ -87,7 +87,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "170.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "7.0",
@@ -102,7 +102,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "600.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "8.0",
@@ -117,11 +117,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "40.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "9.0",
-    "pageTitle": "Arborist Canada - Certified Tree Care Services | Call 1-888-689-6881",
+    "pageTitle": "Arborist Canada - Certified Tree Care Services | Call 1-888-896-5840",
     "pageSlug": "/arborist",
     "primaryKeyword": "arborist",
     "secondaryKeywords": "certified arborist, arborist near me, what is an arborist, arborist meaning, arborist report",
@@ -132,7 +132,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "24.0",
     "cpc": "350.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "10.0",
@@ -147,7 +147,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "25.0",
     "cpc": "190.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "11.0",
@@ -162,7 +162,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "3.0",
     "cpc": "60.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "12.0",
@@ -177,7 +177,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "4.0",
     "cpc": "50.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "13.0",
@@ -192,7 +192,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "27.0",
     "cpc": "110.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "14.0",
@@ -207,11 +207,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "7.0",
     "cpc": "80.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "15.0",
-    "pageTitle": "Painters Near Me - Local House Painters Canada | 1-888-689-6881",
+    "pageTitle": "Painters Near Me - Local House Painters Canada | 1-888-896-5840",
     "pageSlug": "/painters-near-me",
     "primaryKeyword": "painters near me",
     "secondaryKeywords": "house painters near me, interior painters near me, exterior painters near me, local painters near me, residential painters near me",
@@ -222,7 +222,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "1.0",
     "cpc": "250.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "16.0",
@@ -237,7 +237,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "27.0",
     "cpc": "25.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "17.0",
@@ -252,7 +252,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "25.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "18.0",
@@ -267,7 +267,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "6.0",
     "cpc": "35.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "19.0",
@@ -282,7 +282,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "3.0",
     "cpc": "300.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "20.0",
@@ -297,7 +297,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "11.0",
     "cpc": "300.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "21.0",
@@ -312,7 +312,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "15.0",
     "cpc": "130.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "22.0",
@@ -327,7 +327,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "18.0",
     "cpc": "45.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "23.0",
@@ -342,7 +342,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "17.0",
     "cpc": "10.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "24.0",
@@ -357,7 +357,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "35.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "25.0",
@@ -372,7 +372,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "90.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "26.0",
@@ -387,7 +387,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "50.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "27.0",
@@ -402,11 +402,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "16.0",
     "cpc": "30.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "28.0",
-    "pageTitle": "Emergency Plumber Toronto - 24/7 Same-Day Service | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Toronto - 24/7 Same-Day Service | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-toronto",
     "primaryKeyword": "emergency plumber toronto",
     "secondaryKeywords": "toronto emergency plumber, 24 hour plumber toronto, burst pipe toronto, plumbing emergency toronto",
@@ -417,11 +417,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "34.0",
     "cpc": "1200.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "29.0",
-    "pageTitle": "Emergency Plumber Kingston Ontario - 24/7 | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Kingston Ontario - 24/7 | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-kingston",
     "primaryKeyword": "emergency plumber kingston",
     "secondaryKeywords": "emergency plumber kingston ontario, kingston emergency plumber, 24 hour plumber kingston",
@@ -432,11 +432,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "800.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "30.0",
-    "pageTitle": "Emergency Plumber Ottawa - 24/7 Plumbing Repairs | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Ottawa - 24/7 Plumbing Repairs | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-ottawa",
     "primaryKeyword": "emergency plumber ottawa",
     "secondaryKeywords": "ottawa emergency plumber, 24 hour plumber ottawa, burst pipe ottawa, plumbing emergency ottawa",
@@ -447,11 +447,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "700.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "31.0",
-    "pageTitle": "Emergency Plumber Mississauga - 24/7 Service | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Mississauga - 24/7 Service | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-mississauga",
     "primaryKeyword": "emergency plumber mississauga",
     "secondaryKeywords": "mississauga emergency plumber, 24 hour plumber mississauga, plumbing emergency mississauga",
@@ -462,11 +462,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "1300.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "32.0",
-    "pageTitle": "Emergency Plumber Hamilton - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Hamilton - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-hamilton",
     "primaryKeyword": "emergency plumber hamilton",
     "secondaryKeywords": "hamilton emergency plumber, 24 hour plumber hamilton, plumbing emergency hamilton",
@@ -477,11 +477,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "400.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "33.0",
-    "pageTitle": "Emergency Plumber Kitchener - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Kitchener - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-kitchener",
     "primaryKeyword": "emergency plumber kitchener",
     "secondaryKeywords": "kitchener emergency plumber, plumbing emergency kitchener, 24 hour plumber kitchener",
@@ -492,11 +492,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "1700.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "34.0",
-    "pageTitle": "Emergency Plumber Oshawa - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Oshawa - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-oshawa",
     "primaryKeyword": "emergency plumber oshawa",
     "secondaryKeywords": "oshawa emergency plumber, plumbing emergency oshawa, 24 hour plumber oshawa",
@@ -507,11 +507,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "1500.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "35.0",
-    "pageTitle": "Emergency Plumber Burlington - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Burlington - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-burlington",
     "primaryKeyword": "emergency plumber burlington",
     "secondaryKeywords": "burlington emergency plumber, plumbing emergency burlington, 24 hour plumber burlington",
@@ -522,11 +522,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "1600.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "36.0",
-    "pageTitle": "Emergency Plumber Barrie - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Barrie - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-barrie",
     "primaryKeyword": "emergency plumber barrie",
     "secondaryKeywords": "barrie emergency plumber, plumbing emergency barrie, 24 hour plumber barrie",
@@ -537,11 +537,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "1.0",
     "cpc": "1200.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "37.0",
-    "pageTitle": "Emergency Plumber Ajax - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Ajax - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-ajax",
     "primaryKeyword": "emergency plumber ajax",
     "secondaryKeywords": "ajax emergency plumber, plumbing emergency ajax, 24 hour plumber ajax",
@@ -552,11 +552,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "1100.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "38.0",
-    "pageTitle": "Emergency Plumber Markham - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Markham - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-markham",
     "primaryKeyword": "emergency plumber markham",
     "secondaryKeywords": "markham emergency plumber, plumbing emergency markham, 24 hour plumber markham",
@@ -567,11 +567,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "1500.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "39.0",
-    "pageTitle": "Emergency Plumber Brampton - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Brampton - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-brampton",
     "primaryKeyword": "emergency plumber brampton",
     "secondaryKeywords": "brampton emergency plumber, plumbing emergency brampton, 24 hour plumber brampton",
@@ -582,11 +582,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "1300.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "40.0",
-    "pageTitle": "Emergency Plumber Oakville - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Oakville - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-oakville",
     "primaryKeyword": "emergency plumber oakville",
     "secondaryKeywords": "oakville emergency plumber, plumbing emergency oakville, 24 hour plumber oakville",
@@ -597,11 +597,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "3.0",
     "cpc": "1800.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "41.0",
-    "pageTitle": "Emergency Plumber Guelph - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Guelph - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-guelph",
     "primaryKeyword": "emergency plumber guelph",
     "secondaryKeywords": "guelph emergency plumber, plumbing emergency guelph, 24 hour plumber guelph",
@@ -612,11 +612,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "900.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "42.0",
-    "pageTitle": "Emergency Plumber Windsor - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Windsor - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-windsor",
     "primaryKeyword": "emergency plumber windsor",
     "secondaryKeywords": "windsor emergency plumber, plumbing emergency windsor, 24 hour plumber windsor",
@@ -627,11 +627,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "400.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "43.0",
-    "pageTitle": "Emergency Plumber London Ontario - 24/7 | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber London Ontario - 24/7 | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-london-ontario",
     "primaryKeyword": "emergency plumber london ontario",
     "secondaryKeywords": "london ontario emergency plumber, plumbing emergency london ontario, 24 hour plumber london ontario",
@@ -642,11 +642,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "300.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "44.0",
-    "pageTitle": "Emergency Plumber Pickering - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Pickering - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-pickering",
     "primaryKeyword": "emergency plumber pickering",
     "secondaryKeywords": "pickering emergency plumber, plumbing emergency pickering, 24 hour plumber pickering",
@@ -657,11 +657,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "1100.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "45.0",
-    "pageTitle": "Emergency Plumber Vaughan - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Vaughan - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-vaughan",
     "primaryKeyword": "emergency plumber vaughan",
     "secondaryKeywords": "vaughan emergency plumber, plumbing emergency vaughan, 24 hour plumber vaughan",
@@ -672,11 +672,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "1500.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "46.0",
-    "pageTitle": "Emergency Plumber Whitby - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Whitby - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-whitby",
     "primaryKeyword": "emergency plumber whitby",
     "secondaryKeywords": "whitby emergency plumber, plumbing emergency whitby, 24 hour plumber whitby",
@@ -687,11 +687,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "1000.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "47.0",
-    "pageTitle": "Emergency Plumber Sudbury - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Sudbury - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-sudbury",
     "primaryKeyword": "emergency plumber sudbury",
     "secondaryKeywords": "sudbury emergency plumber, plumbing emergency sudbury, 24 hour plumber sudbury",
@@ -702,11 +702,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "300.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "48.0",
-    "pageTitle": "Painters Toronto - Interior and Exterior Painting | 1-888-689-6881",
+    "pageTitle": "Painters Toronto - Interior and Exterior Painting | 1-888-896-5840",
     "pageSlug": "/painters-toronto",
     "primaryKeyword": "painters toronto",
     "secondaryKeywords": "toronto painters, home painters toronto, house painters toronto, best painters toronto",
@@ -717,11 +717,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "19.0",
     "cpc": "300.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "49.0",
-    "pageTitle": "Painters Ottawa - Interior and Exterior Painting | 1-888-689-6881",
+    "pageTitle": "Painters Ottawa - Interior and Exterior Painting | 1-888-896-5840",
     "pageSlug": "/painters-ottawa",
     "primaryKeyword": "painters ottawa",
     "secondaryKeywords": "ottawa painters, ottawa house painters, interior painters ottawa, exterior painters ottawa, professional painters ottawa",
@@ -732,11 +732,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "31.0",
     "cpc": "600.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "50.0",
-    "pageTitle": "Painters London Ontario - House and Commercial Painting | 1-888-689-6881",
+    "pageTitle": "Painters London Ontario - House and Commercial Painting | 1-888-896-5840",
     "pageSlug": "/painters-london-ontario",
     "primaryKeyword": "painters london ontario",
     "secondaryKeywords": "london ontario painters, house painters london ontario, painting contractor london ontario",
@@ -747,11 +747,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "15.0",
     "cpc": "350.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "51.0",
-    "pageTitle": "Painters Mississauga - Residential Painting | 1-888-689-6881",
+    "pageTitle": "Painters Mississauga - Residential Painting | 1-888-896-5840",
     "pageSlug": "/painters-mississauga",
     "primaryKeyword": "painters mississauga",
     "secondaryKeywords": "mississauga painters, house painters mississauga, painting company mississauga",
@@ -762,11 +762,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "400.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "52.0",
-    "pageTitle": "Painters Hamilton - Interior and Exterior Painting | 1-888-689-6881",
+    "pageTitle": "Painters Hamilton - Interior and Exterior Painting | 1-888-896-5840",
     "pageSlug": "/painters-hamilton",
     "primaryKeyword": "painters hamilton",
     "secondaryKeywords": "hamilton painters, house painters hamilton, painting contractor hamilton",
@@ -777,11 +777,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "12.0",
     "cpc": "400.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "53.0",
-    "pageTitle": "Painters Barrie - Residential and Commercial Painting | 1-888-689-6881",
+    "pageTitle": "Painters Barrie - Residential and Commercial Painting | 1-888-896-5840",
     "pageSlug": "/painters-barrie",
     "primaryKeyword": "painters barrie",
     "secondaryKeywords": "barrie painters, house painters barrie, home painters barrie, painting company barrie",
@@ -792,11 +792,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "12.0",
     "cpc": "450.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "54.0",
-    "pageTitle": "Painters Newmarket - House Painters | 1-888-689-6881",
+    "pageTitle": "Painters Newmarket - House Painters | 1-888-896-5840",
     "pageSlug": "/painters-newmarket",
     "primaryKeyword": "painters newmarket",
     "secondaryKeywords": "newmarket painters, house painters newmarket, painting newmarket",
@@ -807,11 +807,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "8.0",
     "cpc": "450.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "55.0",
-    "pageTitle": "Painters Oshawa - Residential Painting | 1-888-689-6881",
+    "pageTitle": "Painters Oshawa - Residential Painting | 1-888-896-5840",
     "pageSlug": "/painters-oshawa",
     "primaryKeyword": "painters oshawa",
     "secondaryKeywords": "oshawa painters, house painters oshawa, painting company oshawa",
@@ -822,11 +822,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "500.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "56.0",
-    "pageTitle": "Painters Brampton - House Painting Services | 1-888-689-6881",
+    "pageTitle": "Painters Brampton - House Painting Services | 1-888-896-5840",
     "pageSlug": "/painters-brampton",
     "primaryKeyword": "painters brampton",
     "secondaryKeywords": "brampton painters, house painters brampton, painting contractor brampton",
@@ -837,11 +837,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "300.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "57.0",
-    "pageTitle": "Painters Oakville - Residential and Commercial Painting | 1-888-689-6881",
+    "pageTitle": "Painters Oakville - Residential and Commercial Painting | 1-888-896-5840",
     "pageSlug": "/painters-oakville",
     "primaryKeyword": "painters oakville",
     "secondaryKeywords": "oakville painters, house painters oakville, painting company oakville",
@@ -852,11 +852,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "350.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "58.0",
-    "pageTitle": "Painters Vaughan - Interior and Exterior Painting | 1-888-689-6881",
+    "pageTitle": "Painters Vaughan - Interior and Exterior Painting | 1-888-896-5840",
     "pageSlug": "/painters-vaughan",
     "primaryKeyword": "painters vaughan",
     "secondaryKeywords": "vaughan painters, house painters vaughan, painting contractor vaughan",
@@ -867,11 +867,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "10.0",
     "cpc": "500.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "59.0",
-    "pageTitle": "Painters Ajax - House Painting Services | 1-888-689-6881",
+    "pageTitle": "Painters Ajax - House Painting Services | 1-888-896-5840",
     "pageSlug": "/painters-ajax",
     "primaryKeyword": "painters ajax",
     "secondaryKeywords": "ajax painters, house painters ajax, painting company ajax",
@@ -882,11 +882,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "350.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "60.0",
-    "pageTitle": "Painters Pickering - Residential Painting | 1-888-689-6881",
+    "pageTitle": "Painters Pickering - Residential Painting | 1-888-896-5840",
     "pageSlug": "/painters-pickering",
     "primaryKeyword": "painters pickering",
     "secondaryKeywords": "pickering painters, house painters pickering, painting contractor pickering",
@@ -897,11 +897,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "300.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "61.0",
-    "pageTitle": "Painters Whitby - House Painting Services | 1-888-689-6881",
+    "pageTitle": "Painters Whitby - House Painting Services | 1-888-896-5840",
     "pageSlug": "/painters-whitby",
     "primaryKeyword": "painters whitby",
     "secondaryKeywords": "whitby painters, house painters whitby, painting company whitby",
@@ -912,11 +912,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "450.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "62.0",
-    "pageTitle": "Painters Kitchener - Interior and Exterior Painting | 1-888-689-6881",
+    "pageTitle": "Painters Kitchener - Interior and Exterior Painting | 1-888-896-5840",
     "pageSlug": "/painters-kitchener",
     "primaryKeyword": "painters kitchener",
     "secondaryKeywords": "kitchener painters, house painters kitchener, painting company kitchener",
@@ -927,11 +927,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "13.0",
     "cpc": "500.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "63.0",
-    "pageTitle": "Painters Guelph - Residential and Commercial Painting | 1-888-689-6881",
+    "pageTitle": "Painters Guelph - Residential and Commercial Painting | 1-888-896-5840",
     "pageSlug": "/painters-guelph",
     "primaryKeyword": "painters guelph",
     "secondaryKeywords": "guelph painters, house painters guelph, painting contractor guelph",
@@ -942,11 +942,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "7.0",
     "cpc": "400.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "64.0",
-    "pageTitle": "Painters Niagara Falls - House Painters | 1-888-689-6881",
+    "pageTitle": "Painters Niagara Falls - House Painters | 1-888-896-5840",
     "pageSlug": "/painters-niagara-falls",
     "primaryKeyword": "painters niagara falls",
     "secondaryKeywords": "niagara falls painters, house painters niagara falls, painting contractor niagara",
@@ -957,11 +957,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "6.0",
     "cpc": "300.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "65.0",
-    "pageTitle": "Painters Richmond Hill - Residential Painting | 1-888-689-6881",
+    "pageTitle": "Painters Richmond Hill - Residential Painting | 1-888-896-5840",
     "pageSlug": "/painters-richmond-hill",
     "primaryKeyword": "painters richmond hill",
     "secondaryKeywords": "richmond hill painters, house painters richmond hill, painting company richmond hill",
@@ -972,11 +972,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "450.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "66.0",
-    "pageTitle": "Painters Markham - Interior and Exterior Painting | 1-888-689-6881",
+    "pageTitle": "Painters Markham - Interior and Exterior Painting | 1-888-896-5840",
     "pageSlug": "/painters-markham",
     "primaryKeyword": "painters markham",
     "secondaryKeywords": "markham painters, house painters markham, painting contractor markham",
@@ -987,11 +987,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "400.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "67.0",
-    "pageTitle": "Painters Burlington - House Painting Services | 1-888-689-6881",
+    "pageTitle": "Painters Burlington - House Painting Services | 1-888-896-5840",
     "pageSlug": "/painters-burlington",
     "primaryKeyword": "painters burlington",
     "secondaryKeywords": "burlington painters, house painters burlington, painting company burlington",
@@ -1002,11 +1002,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "18.0",
     "cpc": "600.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "68.0",
-    "pageTitle": "Painters Windsor - Residential and Commercial Painting | 1-888-689-6881",
+    "pageTitle": "Painters Windsor - Residential and Commercial Painting | 1-888-896-5840",
     "pageSlug": "/painters-windsor",
     "primaryKeyword": "painters windsor",
     "secondaryKeywords": "windsor painters, house painters windsor, painting contractor windsor",
@@ -1017,11 +1017,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "250.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "69.0",
-    "pageTitle": "Tree Removal Toronto - Certified Arborists | 1-888-689-6881",
+    "pageTitle": "Tree Removal Toronto - Certified Arborists | 1-888-896-5840",
     "pageSlug": "/tree-removal-toronto",
     "primaryKeyword": "tree removal toronto",
     "secondaryKeywords": "toronto tree removal, arborist toronto, tree service toronto, stump removal toronto, tree cutting toronto",
@@ -1032,11 +1032,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "24.0",
     "cpc": "600.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "70.0",
-    "pageTitle": "Tree Removal Ottawa - Certified Tree Services | 1-888-689-6881",
+    "pageTitle": "Tree Removal Ottawa - Certified Tree Services | 1-888-896-5840",
     "pageSlug": "/tree-removal-ottawa",
     "primaryKeyword": "tree removal ottawa",
     "secondaryKeywords": "ottawa tree removal, arborist ottawa, stump removal ottawa, tree trimming ottawa",
@@ -1047,11 +1047,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "28.0",
     "cpc": "400.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "71.0",
-    "pageTitle": "Tree Removal Mississauga - Arborist Services | 1-888-689-6881",
+    "pageTitle": "Tree Removal Mississauga - Arborist Services | 1-888-896-5840",
     "pageSlug": "/tree-removal-mississauga",
     "primaryKeyword": "tree removal mississauga",
     "secondaryKeywords": "mississauga tree removal, arborist mississauga, stump removal mississauga, tree trimming mississauga",
@@ -1062,11 +1062,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "8.0",
     "cpc": "250.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "72.0",
-    "pageTitle": "Tree Removal London Ontario - Arborist Services | 1-888-689-6881",
+    "pageTitle": "Tree Removal London Ontario - Arborist Services | 1-888-896-5840",
     "pageSlug": "/tree-removal-london-ontario",
     "primaryKeyword": "tree removal london ontario",
     "secondaryKeywords": "london ontario tree removal, arborist london ontario, stump removal london ontario",
@@ -1077,11 +1077,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "17.0",
     "cpc": "250.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "73.0",
-    "pageTitle": "Tree Removal Hamilton - Certified Arborists | 1-888-689-6881",
+    "pageTitle": "Tree Removal Hamilton - Certified Arborists | 1-888-896-5840",
     "pageSlug": "/tree-removal-hamilton",
     "primaryKeyword": "tree removal hamilton",
     "secondaryKeywords": "hamilton tree removal, arborist hamilton, stump removal hamilton, tree cutting hamilton",
@@ -1092,11 +1092,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "22.0",
     "cpc": "200.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "74.0",
-    "pageTitle": "Tree Removal Kitchener - Arborist Services | 1-888-689-6881",
+    "pageTitle": "Tree Removal Kitchener - Arborist Services | 1-888-896-5840",
     "pageSlug": "/tree-removal-kitchener",
     "primaryKeyword": "tree removal kitchener",
     "secondaryKeywords": "kitchener tree removal, kitchener waterloo tree removal, arborist kitchener",
@@ -1107,11 +1107,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "15.0",
     "cpc": "200.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "75.0",
-    "pageTitle": "Tree Removal Oakville - Certified Arborists | 1-888-689-6881",
+    "pageTitle": "Tree Removal Oakville - Certified Arborists | 1-888-896-5840",
     "pageSlug": "/tree-removal-oakville",
     "primaryKeyword": "tree removal oakville",
     "secondaryKeywords": "oakville tree removal, arborist oakville, stump removal oakville",
@@ -1122,11 +1122,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "500.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "76.0",
-    "pageTitle": "Hardwood Flooring Brampton - Installation and Supply | 1-888-689-6881",
+    "pageTitle": "Hardwood Flooring Brampton - Installation and Supply | 1-888-896-5840",
     "pageSlug": "/hardwood-flooring-brampton",
     "primaryKeyword": "brampton hardwood flooring",
     "secondaryKeywords": "hardwood flooring brampton, flooring installation brampton, engineered hardwood flooring brampton",
@@ -1137,11 +1137,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "12.0",
     "cpc": "100.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "77.0",
-    "pageTitle": "Hardwood Flooring Ottawa - Installation and Supply | 1-888-689-6881",
+    "pageTitle": "Hardwood Flooring Ottawa - Installation and Supply | 1-888-896-5840",
     "pageSlug": "/hardwood-flooring-ottawa",
     "primaryKeyword": "hardwood flooring ottawa",
     "secondaryKeywords": "ottawa hardwood flooring, hardwood flooring installation ottawa, engineered hardwood flooring ottawa",
@@ -1152,11 +1152,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "9.0",
     "cpc": "90.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "78.0",
-    "pageTitle": "Hardwood Flooring Mississauga - Installation | 1-888-689-6881",
+    "pageTitle": "Hardwood Flooring Mississauga - Installation | 1-888-896-5840",
     "pageSlug": "/hardwood-flooring-mississauga",
     "primaryKeyword": "hardwood flooring mississauga",
     "secondaryKeywords": "mississauga hardwood flooring, flooring installation mississauga, hardwood flooring installer mississauga",
@@ -1167,11 +1167,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "12.0",
     "cpc": "100.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "79.0",
-    "pageTitle": "Flooring Installation Toronto - Hardwood, Vinyl and Laminate | 1-888-689-6881",
+    "pageTitle": "Flooring Installation Toronto - Hardwood, Vinyl and Laminate | 1-888-896-5840",
     "pageSlug": "/flooring-installation-toronto",
     "primaryKeyword": "flooring installation toronto",
     "secondaryKeywords": "hardwood flooring toronto, vinyl flooring installation toronto, laminate flooring installation toronto",
@@ -1182,11 +1182,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "9.0",
     "cpc": "350.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "80.0",
-    "pageTitle": "Flooring Installation Kitchener - Hardwood and Vinyl | 1-888-689-6881",
+    "pageTitle": "Flooring Installation Kitchener - Hardwood and Vinyl | 1-888-896-5840",
     "pageSlug": "/flooring-installation-kitchener",
     "primaryKeyword": "flooring installation kitchener",
     "secondaryKeywords": "vinyl flooring installation kitchener, flooring contractor kitchener, tile flooring installation kitchener",
@@ -1197,11 +1197,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "400.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "81.0",
-    "pageTitle": "Painters Calgary - Interior and Exterior Painting | 1-888-689-6881",
+    "pageTitle": "Painters Calgary - Interior and Exterior Painting | 1-888-896-5840",
     "pageSlug": "/painters-calgary",
     "primaryKeyword": "painters calgary",
     "secondaryKeywords": "calgary painters, house painters calgary, interior painters calgary, residential painters calgary",
@@ -1212,11 +1212,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "22.0",
     "cpc": "450.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "82.0",
-    "pageTitle": "Interior Painters Calgary - Professional Interior Painting | 1-888-689-6881",
+    "pageTitle": "Interior Painters Calgary - Professional Interior Painting | 1-888-896-5840",
     "pageSlug": "/interior-painters-calgary",
     "primaryKeyword": "interior painters calgary",
     "secondaryKeywords": "calgary interior painters, interior house painters calgary, interior painting calgary, calgary interior painting",
@@ -1227,11 +1227,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "6.0",
     "cpc": "700.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "83.0",
-    "pageTitle": "Exterior Painting Calgary - House Painters | 1-888-689-6881",
+    "pageTitle": "Exterior Painting Calgary - House Painters | 1-888-896-5840",
     "pageSlug": "/exterior-painting-calgary",
     "primaryKeyword": "exterior painting calgary",
     "secondaryKeywords": "calgary exterior painting, exterior painters calgary, house painting calgary, calgary house painters",
@@ -1242,11 +1242,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "13.0",
     "cpc": "450.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "84.0",
-    "pageTitle": "House Painting Calgary - Residential Painters | 1-888-689-6881",
+    "pageTitle": "House Painting Calgary - Residential Painters | 1-888-896-5840",
     "pageSlug": "/house-painting-calgary",
     "primaryKeyword": "house painting calgary",
     "secondaryKeywords": "calgary house painting, house painters calgary, residential painting calgary, calgary residential painters",
@@ -1257,11 +1257,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "6.0",
     "cpc": "500.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "85.0",
-    "pageTitle": "Commercial Painters Calgary - Business Painting | 1-888-689-6881",
+    "pageTitle": "Commercial Painters Calgary - Business Painting | 1-888-896-5840",
     "pageSlug": "/commercial-painters-calgary",
     "primaryKeyword": "commercial painters calgary",
     "secondaryKeywords": "calgary commercial painters, commercial painting calgary, painting company calgary",
@@ -1272,11 +1272,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "28.0",
     "cpc": "1200.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "86.0",
-    "pageTitle": "Tree Removal Calgary - Certified Tree Services | 1-888-689-6881",
+    "pageTitle": "Tree Removal Calgary - Certified Tree Services | 1-888-896-5840",
     "pageSlug": "/tree-removal-calgary",
     "primaryKeyword": "tree removal calgary",
     "secondaryKeywords": "calgary tree removal, arborist calgary, tree trimming calgary, stump removal calgary",
@@ -1287,11 +1287,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "42.0",
     "cpc": "250.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "87.0",
-    "pageTitle": "Emergency Plumber Calgary - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Calgary - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-calgary",
     "primaryKeyword": "emergency plumber calgary",
     "secondaryKeywords": "calgary emergency plumber, 24 hour plumber calgary, plumbing emergency calgary, burst pipe calgary",
@@ -1302,11 +1302,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "900.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "88.0",
-    "pageTitle": "Flooring Installation Calgary - Hardwood and Vinyl | 1-888-689-6881",
+    "pageTitle": "Flooring Installation Calgary - Hardwood and Vinyl | 1-888-896-5840",
     "pageSlug": "/flooring-installation-calgary",
     "primaryKeyword": "flooring installation calgary",
     "secondaryKeywords": "hardwood flooring calgary, flooring contractor calgary, laminate flooring calgary",
@@ -1317,11 +1317,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "200.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "89.0",
-    "pageTitle": "Painters Airdrie - Residential Painting | 1-888-689-6881",
+    "pageTitle": "Painters Airdrie - Residential Painting | 1-888-896-5840",
     "pageSlug": "/painters-airdrie",
     "primaryKeyword": "painters airdrie",
     "secondaryKeywords": "airdrie painters, house painters airdrie, painting company airdrie",
@@ -1332,11 +1332,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "450.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "90.0",
-    "pageTitle": "Painters Edmonton - Interior and Exterior Painting | 1-888-689-6881",
+    "pageTitle": "Painters Edmonton - Interior and Exterior Painting | 1-888-896-5840",
     "pageSlug": "/painters-edmonton",
     "primaryKeyword": "painters edmonton",
     "secondaryKeywords": "edmonton painters, house painters edmonton, exterior painters edmonton, interior painters edmonton",
@@ -1347,11 +1347,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "15.0",
     "cpc": "350.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "91.0",
-    "pageTitle": "Tree Removal Edmonton - Arborist Services | 1-888-689-6881",
+    "pageTitle": "Tree Removal Edmonton - Arborist Services | 1-888-896-5840",
     "pageSlug": "/tree-removal-edmonton",
     "primaryKeyword": "tree removal edmonton",
     "secondaryKeywords": "edmonton tree removal, arborist edmonton, tree trimming edmonton, stump removal edmonton",
@@ -1362,11 +1362,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "42.0",
     "cpc": "250.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "92.0",
-    "pageTitle": "Emergency Plumber Edmonton - 24/7 Service | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Edmonton - 24/7 Service | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-edmonton",
     "primaryKeyword": "emergency plumber edmonton",
     "secondaryKeywords": "edmonton emergency plumber, 24 hour plumber edmonton, plumbing emergency edmonton",
@@ -1377,11 +1377,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "800.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "93.0",
-    "pageTitle": "Painters Lethbridge - House Painting Services | 1-888-689-6881",
+    "pageTitle": "Painters Lethbridge - House Painting Services | 1-888-896-5840",
     "pageSlug": "/painters-lethbridge",
     "primaryKeyword": "painters lethbridge",
     "secondaryKeywords": "lethbridge painters, house painters lethbridge, painting contractor lethbridge",
@@ -1392,11 +1392,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "5.0",
     "cpc": "150.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "94.0",
-    "pageTitle": "Painters Red Deer - Residential Painting | 1-888-689-6881",
+    "pageTitle": "Painters Red Deer - Residential Painting | 1-888-896-5840",
     "pageSlug": "/painters-red-deer",
     "primaryKeyword": "painters red deer",
     "secondaryKeywords": "red deer painters, house painters red deer, painting company red deer",
@@ -1407,11 +1407,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "10.0",
     "cpc": "150.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "95.0",
-    "pageTitle": "Painters Medicine Hat - House Painters | 1-888-689-6881",
+    "pageTitle": "Painters Medicine Hat - House Painters | 1-888-896-5840",
     "pageSlug": "/painters-medicine-hat",
     "primaryKeyword": "painters medicine hat",
     "secondaryKeywords": "medicine hat painters, house painters medicine hat, painting company medicine hat",
@@ -1422,11 +1422,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "7.0",
     "cpc": "250.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "96.0",
-    "pageTitle": "Painters Vancouver - Interior and Exterior Painting | 1-888-689-6881",
+    "pageTitle": "Painters Vancouver - Interior and Exterior Painting | 1-888-896-5840",
     "pageSlug": "/painters-vancouver",
     "primaryKeyword": "painters vancouver",
     "secondaryKeywords": "vancouver painters, house painters vancouver, interior painters vancouver, exterior painters vancouver",
@@ -1437,11 +1437,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "27.0",
     "cpc": "450.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "97.0",
-    "pageTitle": "Exterior Painting Vancouver - House Painters | 1-888-689-6881",
+    "pageTitle": "Exterior Painting Vancouver - House Painters | 1-888-896-5840",
     "pageSlug": "/exterior-painting-vancouver",
     "primaryKeyword": "exterior painting vancouver",
     "secondaryKeywords": "vancouver exterior painting company, exterior painters vancouver, exterior house painters vancouver",
@@ -1452,11 +1452,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "36.0",
     "cpc": "700.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "98.0",
-    "pageTitle": "Interior Painting Vancouver - Professional Painters | 1-888-689-6881",
+    "pageTitle": "Interior Painting Vancouver - Professional Painters | 1-888-896-5840",
     "pageSlug": "/interior-painting-vancouver",
     "primaryKeyword": "interior painting vancouver",
     "secondaryKeywords": "vancouver interior painting company, interior painters vancouver, vancouver interior painters",
@@ -1467,11 +1467,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "39.0",
     "cpc": "400.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "99.0",
-    "pageTitle": "Emergency Plumber Vancouver - 24/7 Service | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Vancouver - 24/7 Service | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-vancouver",
     "primaryKeyword": "emergency plumber vancouver",
     "secondaryKeywords": "vancouver emergency plumber, 24 hour plumber vancouver, burst pipe vancouver, plumbing emergency vancouver",
@@ -1482,11 +1482,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "6.0",
     "cpc": "1400.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "100.0",
-    "pageTitle": "Painters Surrey - Exterior and Interior Painting | 1-888-689-6881",
+    "pageTitle": "Painters Surrey - Exterior and Interior Painting | 1-888-896-5840",
     "pageSlug": "/painters-surrey",
     "primaryKeyword": "painters surrey",
     "secondaryKeywords": "surrey painters, house painters surrey, exterior painters surrey, interior painters surrey",
@@ -1497,11 +1497,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "3.0",
     "cpc": "350.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "101.0",
-    "pageTitle": "Exterior Painting Surrey - House Painters | 1-888-689-6881",
+    "pageTitle": "Exterior Painting Surrey - House Painters | 1-888-896-5840",
     "pageSlug": "/exterior-painting-surrey",
     "primaryKeyword": "exterior painting surrey",
     "secondaryKeywords": "surrey exterior painting company, surrey painting contractor, house painters surrey",
@@ -1512,11 +1512,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "800.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "102.0",
-    "pageTitle": "Painters Burnaby - Interior and Exterior Painting | 1-888-689-6881",
+    "pageTitle": "Painters Burnaby - Interior and Exterior Painting | 1-888-896-5840",
     "pageSlug": "/painters-burnaby",
     "primaryKeyword": "painters burnaby",
     "secondaryKeywords": "burnaby painters, house painters burnaby, painting company burnaby",
@@ -1527,11 +1527,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "600.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "103.0",
-    "pageTitle": "Emergency Plumber North Vancouver - 24/7 | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber North Vancouver - 24/7 | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-north-vancouver",
     "primaryKeyword": "emergency plumber north vancouver",
     "secondaryKeywords": "north vancouver emergency plumber, 24 hour plumber north vancouver, plumbing emergency north vancouver",
@@ -1542,11 +1542,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2000.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "104.0",
-    "pageTitle": "Emergency Plumber Victoria BC - 24/7 | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Victoria BC - 24/7 | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-victoria",
     "primaryKeyword": "emergency plumber victoria",
     "secondaryKeywords": "victoria emergency plumber, 24 hour plumber victoria bc, plumbing emergency victoria",
@@ -1557,11 +1557,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "8.0",
     "cpc": "1700.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "105.0",
-    "pageTitle": "Painters Victoria BC - Interior and Exterior Painting | 1-888-689-6881",
+    "pageTitle": "Painters Victoria BC - Interior and Exterior Painting | 1-888-896-5840",
     "pageSlug": "/painters-victoria",
     "primaryKeyword": "painters victoria",
     "secondaryKeywords": "victoria painters, house painters victoria bc, painting company victoria, painters victoria bc",
@@ -1572,11 +1572,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "14.0",
     "cpc": "500.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "106.0",
-    "pageTitle": "Painters Kelowna - Exterior and Interior Painting | 1-888-689-6881",
+    "pageTitle": "Painters Kelowna - Exterior and Interior Painting | 1-888-896-5840",
     "pageSlug": "/painters-kelowna",
     "primaryKeyword": "painters kelowna",
     "secondaryKeywords": "kelowna painters, house painters kelowna, interior painters kelowna, exterior painters kelowna",
@@ -1587,11 +1587,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "8.0",
     "cpc": "500.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "107.0",
-    "pageTitle": "Emergency Plumber Langley - 24/7 Service | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Langley - 24/7 Service | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-langley",
     "primaryKeyword": "emergency plumber langley",
     "secondaryKeywords": "langley emergency plumber, 24 hour plumber langley, plumbing emergency langley",
@@ -1602,11 +1602,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "1000.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "108.0",
-    "pageTitle": "Painters Nanaimo - Residential and Commercial Painting | 1-888-689-6881",
+    "pageTitle": "Painters Nanaimo - Residential and Commercial Painting | 1-888-896-5840",
     "pageSlug": "/painters-nanaimo",
     "primaryKeyword": "painters nanaimo",
     "secondaryKeywords": "nanaimo painters, house painters nanaimo, interior painters nanaimo",
@@ -1617,11 +1617,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "5.0",
     "cpc": "300.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "109.0",
-    "pageTitle": "Emergency Plumber Burnaby - 24/7 Service | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Burnaby - 24/7 Service | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-burnaby",
     "primaryKeyword": "emergency plumber burnaby",
     "secondaryKeywords": "burnaby emergency plumber, 24 hour plumber burnaby, plumbing emergency burnaby",
@@ -1632,11 +1632,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "5.0",
     "cpc": "1600.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "110.0",
-    "pageTitle": "Emergency Plumber Surrey - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Surrey - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-surrey",
     "primaryKeyword": "emergency plumber surrey",
     "secondaryKeywords": "surrey emergency plumber, 24 hour plumber surrey, plumbing emergency surrey",
@@ -1647,11 +1647,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "900.0",
     "priority": "🔴 Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "111.0",
-    "pageTitle": "Emergency Plumber Abbotsford - 24/7 Service | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Abbotsford - 24/7 Service | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-abbotsford",
     "primaryKeyword": "emergency plumber abbotsford",
     "secondaryKeywords": "abbotsford emergency plumber, plumbing emergency abbotsford, 24 hour plumber abbotsford",
@@ -1662,11 +1662,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "700.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "112.0",
-    "pageTitle": "Painters Richmond - House Painting Services | 1-888-689-6881",
+    "pageTitle": "Painters Richmond - House Painting Services | 1-888-896-5840",
     "pageSlug": "/painters-richmond",
     "primaryKeyword": "painters richmond",
     "secondaryKeywords": "richmond painters, house painters richmond, painting company richmond",
@@ -1677,11 +1677,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "450.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "113.0",
-    "pageTitle": "Painters North Vancouver - Residential Painting | 1-888-689-6881",
+    "pageTitle": "Painters North Vancouver - Residential Painting | 1-888-896-5840",
     "pageSlug": "/painters-north-vancouver",
     "primaryKeyword": "north vancouver painters",
     "secondaryKeywords": "painters north vancouver, house painters north vancouver, painting company north vancouver",
@@ -1692,11 +1692,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "900.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "114.0",
-    "pageTitle": "Painters Coquitlam - Interior and Exterior Painting | 1-888-689-6881",
+    "pageTitle": "Painters Coquitlam - Interior and Exterior Painting | 1-888-896-5840",
     "pageSlug": "/painters-coquitlam",
     "primaryKeyword": "painters coquitlam",
     "secondaryKeywords": "coquitlam painters, house painters coquitlam, painting company coquitlam",
@@ -1707,11 +1707,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "22.0",
     "cpc": "400.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "115.0",
-    "pageTitle": "Emergency Plumber Coquitlam - 24/7 | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Coquitlam - 24/7 | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-coquitlam",
     "primaryKeyword": "emergency plumber coquitlam",
     "secondaryKeywords": "coquitlam emergency plumber, 24 hour plumber coquitlam, plumbing emergency coquitlam",
@@ -1722,11 +1722,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "1700.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "116.0",
-    "pageTitle": "Painters Langley - Residential Painting | 1-888-689-6881",
+    "pageTitle": "Painters Langley - Residential Painting | 1-888-896-5840",
     "pageSlug": "/painters-langley",
     "primaryKeyword": "painters langley",
     "secondaryKeywords": "langley painters, house painters langley, commercial painters langley",
@@ -1737,11 +1737,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "12.0",
     "cpc": "450.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "117.0",
-    "pageTitle": "Tree Removal Vancouver - Certified Arborists | 1-888-689-6881",
+    "pageTitle": "Tree Removal Vancouver - Certified Arborists | 1-888-896-5840",
     "pageSlug": "/tree-removal-vancouver",
     "primaryKeyword": "tree removal vancouver",
     "secondaryKeywords": "vancouver tree removal, arborist vancouver, stump removal vancouver, tree cutting vancouver",
@@ -1752,11 +1752,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "3.0",
     "cpc": "190.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "118.0",
-    "pageTitle": "Tree Removal Surrey - Certified Arborists | 1-888-689-6881",
+    "pageTitle": "Tree Removal Surrey - Certified Arborists | 1-888-896-5840",
     "pageSlug": "/tree-removal-surrey",
     "primaryKeyword": "tree removal surrey",
     "secondaryKeywords": "surrey tree removal, arborist surrey, stump removal surrey",
@@ -1767,11 +1767,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "6.0",
     "cpc": "200.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "119.0",
-    "pageTitle": "Tree Removal North Vancouver - Arborist Services | 1-888-689-6881",
+    "pageTitle": "Tree Removal North Vancouver - Arborist Services | 1-888-896-5840",
     "pageSlug": "/tree-removal-north-vancouver",
     "primaryKeyword": "tree removal north vancouver",
     "secondaryKeywords": "north vancouver tree removal, arborist north vancouver, stump removal north vancouver",
@@ -1782,11 +1782,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "19.0",
     "cpc": "250.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "120.0",
-    "pageTitle": "Painters Abbotsford - House Painting Services | 1-888-689-6881",
+    "pageTitle": "Painters Abbotsford - House Painting Services | 1-888-896-5840",
     "pageSlug": "/painters-abbotsford",
     "primaryKeyword": "painters abbotsford",
     "secondaryKeywords": "abbotsford painters, house painters abbotsford, painting contractor abbotsford",
@@ -1797,11 +1797,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "10.0",
     "cpc": "300.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "121.0",
-    "pageTitle": "Painters Port Coquitlam - Residential Painting | 1-888-689-6881",
+    "pageTitle": "Painters Port Coquitlam - Residential Painting | 1-888-896-5840",
     "pageSlug": "/painters-port-coquitlam",
     "primaryKeyword": "painters port coquitlam",
     "secondaryKeywords": "port coquitlam painters, house painters port coquitlam, painting company port coquitlam",
@@ -1812,11 +1812,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "21.0",
     "cpc": "450.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "122.0",
-    "pageTitle": "Painters Winnipeg - Interior and Exterior Painting | 1-888-689-6881",
+    "pageTitle": "Painters Winnipeg - Interior and Exterior Painting | 1-888-896-5840",
     "pageSlug": "/painters-winnipeg",
     "primaryKeyword": "painters winnipeg",
     "secondaryKeywords": "winnipeg painters, house painters winnipeg, interior painters winnipeg, exterior painters winnipeg",
@@ -1827,11 +1827,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "20.0",
     "cpc": "400.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "123.0",
-    "pageTitle": "Tree Removal Winnipeg - Arborist Services | 1-888-689-6881",
+    "pageTitle": "Tree Removal Winnipeg - Arborist Services | 1-888-896-5840",
     "pageSlug": "/tree-removal-winnipeg",
     "primaryKeyword": "tree removal winnipeg",
     "secondaryKeywords": "winnipeg tree removal, arborist winnipeg, stump removal winnipeg, tree trimming winnipeg",
@@ -1842,11 +1842,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "34.0",
     "cpc": "70.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "124.0",
-    "pageTitle": "Emergency Plumber Winnipeg - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Winnipeg - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-winnipeg",
     "primaryKeyword": "emergency plumber winnipeg",
     "secondaryKeywords": "winnipeg emergency plumber, 24 hour plumber winnipeg, plumbing emergency winnipeg",
@@ -1857,11 +1857,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "300.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "125.0",
-    "pageTitle": "Painters Saskatoon - Residential and Commercial Painting | 1-888-689-6881",
+    "pageTitle": "Painters Saskatoon - Residential and Commercial Painting | 1-888-896-5840",
     "pageSlug": "/painters-saskatoon",
     "primaryKeyword": "painters saskatoon",
     "secondaryKeywords": "saskatoon painters, house painters saskatoon, interior painters saskatoon",
@@ -1872,11 +1872,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "9.0",
     "cpc": "150.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "126.0",
-    "pageTitle": "Painters Regina - House Painting Services | 1-888-689-6881",
+    "pageTitle": "Painters Regina - House Painting Services | 1-888-896-5840",
     "pageSlug": "/painters-regina",
     "primaryKeyword": "painters regina",
     "secondaryKeywords": "regina painters, house painters regina, painting company regina, professional painters regina",
@@ -1887,11 +1887,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "16.0",
     "cpc": "200.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "127.0",
-    "pageTitle": "Tree Removal Saskatoon - Certified Arborists | 1-888-689-6881",
+    "pageTitle": "Tree Removal Saskatoon - Certified Arborists | 1-888-896-5840",
     "pageSlug": "/tree-removal-saskatoon",
     "primaryKeyword": "tree removal saskatoon",
     "secondaryKeywords": "saskatoon tree removal, arborist saskatoon, stump removal saskatoon",
@@ -1902,11 +1902,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "24.0",
     "cpc": "100.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "128.0",
-    "pageTitle": "Tree Removal Regina - Certified Tree Services | 1-888-689-6881",
+    "pageTitle": "Tree Removal Regina - Certified Tree Services | 1-888-896-5840",
     "pageSlug": "/tree-removal-regina",
     "primaryKeyword": "tree removal regina",
     "secondaryKeywords": "regina tree removal, arborist regina, stump removal regina",
@@ -1917,11 +1917,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "13.0",
     "cpc": "200.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "129.0",
-    "pageTitle": "Painters Halifax - Interior and Exterior Painting | 1-888-689-6881",
+    "pageTitle": "Painters Halifax - Interior and Exterior Painting | 1-888-896-5840",
     "pageSlug": "/painters-halifax",
     "primaryKeyword": "painters halifax",
     "secondaryKeywords": "halifax painters, house painters halifax, interior painters halifax, exterior painters halifax",
@@ -1932,11 +1932,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "22.0",
     "cpc": "200.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "130.0",
-    "pageTitle": "Emergency Plumber Halifax - 24/7 Plumbing | 1-888-689-6881",
+    "pageTitle": "Emergency Plumber Halifax - 24/7 Plumbing | 1-888-896-5840",
     "pageSlug": "/emergency-plumber-halifax",
     "primaryKeyword": "emergency plumber halifax",
     "secondaryKeywords": "halifax emergency plumber, 24 hour plumber halifax, plumbing emergency halifax",
@@ -1947,11 +1947,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "4.0",
     "cpc": "100.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "131.0",
-    "pageTitle": "Tree Removal Kelowna - Arborist Services | 1-888-689-6881",
+    "pageTitle": "Tree Removal Kelowna - Arborist Services | 1-888-896-5840",
     "pageSlug": "/tree-removal-kelowna",
     "primaryKeyword": "tree removal kelowna",
     "secondaryKeywords": "kelowna tree removal, arborist kelowna, stump removal kelowna",
@@ -1962,11 +1962,11 @@ export const RAW_PAGES = [
     "keywordDifficulty": "33.0",
     "cpc": "200.0",
     "priority": "🟠 High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   },
   {
     "id": "132.0",
-    "pageTitle": "Tree Removal Red Deer - Certified Arborists | 1-888-689-6881",
+    "pageTitle": "Tree Removal Red Deer - Certified Arborists | 1-888-896-5840",
     "pageSlug": "/tree-removal-red-deer",
     "primaryKeyword": "tree removal red deer",
     "secondaryKeywords": "red deer tree removal, arborist red deer, stump removal red deer",
@@ -1977,6 +1977,6 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "80.0",
     "priority": "🟡 Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-896-5840"
   }
 ] as const;
